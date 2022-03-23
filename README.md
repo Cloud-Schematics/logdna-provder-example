@@ -1,4 +1,4 @@
-# Configure integrations for Log Analysis service
+# What to Configure integrations for Log Analysis service
 
 This module contains an example for how to use the [LogDNA Terraform Provider](https://docs.logdna.com/docs/terraform-provider) with IBM Cloud.
 
