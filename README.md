@@ -1,4 +1,4 @@
-# Configure integrations for Log Analysis service
+# What to Configure integrations for Log Analysis service
 
 This module contains an example for how to use the [LogDNA Terraform Provider](https://docs.logdna.com/docs/terraform-provider) with IBM Cloud.
 
@@ -27,3 +27,5 @@ Variable          | Type   | Description                                        
 ibm_region        | string | IBM Cloud region where the LogDNA instance is deployed   |
 logdna_servicekey | string | LogDNA Service Key                                       |
 logdna_endpoint   | string | LogDNA endpoint to use. Can be `public` or `private`     | `"public"`
+
+###Adding test code for trial
